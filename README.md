@@ -6,7 +6,7 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Describe your course including the name, description, and grade level
+CS foundations - 9/10th grade 
 
 ### Situation
 
